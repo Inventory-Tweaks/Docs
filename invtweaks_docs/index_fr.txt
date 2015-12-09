@@ -30,7 +30,7 @@ Contact
 -------
 
 * `Obtenez de l'aide sur Minecraft Forums <www.minecraftforum.net/topic/323444-166spsmp-inventory-tweaks-106-june-19/>`_ (en anglais)
-* `Rejoignez le projet sur Github <https://github.com/mkalam-alami/inventory-tweaks/wiki>`_ (eh oui, c'est Open Source !)
+* `Rejoignez le projet sur Github <https://github.com/Inventory-Tweaks/inventory-tweaks/wiki>`_ (eh oui, c'est Open Source !)
 * Si besoin je parle français, donc au pire vous pouvez m'envoyer un mail à *jimeo.wan (at) gmail (point) com*.
 
 

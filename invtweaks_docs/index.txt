@@ -30,7 +30,7 @@ Contact
 -------
 
 * `Get support on Minecraft Forums <http://www.minecraftforum.net/topic/1720872-/>`_
-* `Join the project on Github <https://github.com/Kobata/inventory-tweaks/wiki>`_ (yep, it's Open Source!)
+* `Join the project on Github <https://github.com/Inventory-Tweaks/inventory-tweaks/wiki>`_ (yep, it's Open Source!)
 
 
 
@@ -110,7 +110,7 @@ Add them at the end of the targets (example: ``Ar``) to apply their effect.
 Available keywords
 ------------------
 
-All item names are supported, and even a whole lot of category keywords, such as ``edibleFood``, ``blocks``, ``items``, ``equipment``... The whole list is stored in the file *config/InvTweaksTree.txt* ; an online version is `available here <https://github.com/Kobata/inventory-tweaks/blob/release/src/main/resources/assets/inventorytweaks/ItemTree.xml>`_. Also, don't worry about syntax, for instance ``woodenSword`` works as well as ``WOODSWORD`` or ``Wooden Sword``.
+All item names are supported, and even a whole lot of category keywords, such as ``edibleFood``, ``blocks``, ``items``, ``equipment``... The whole list is stored in the file *config/InvTweaksTree.txt* ; an online version is `available here <https://github.com/Inventory-Tweaks/inventory-tweaks/blob/release/src/main/resources/assets/inventorytweaks/ItemTree.xml>`_. Also, don't worry about syntax, for instance ``woodenSword`` works as well as ``WOODSWORD`` or ``Wooden Sword``.
 
 Here are the special keywords you can use:
 
@@ -215,7 +215,7 @@ The format for entries is fairly simple::
 F.A.Q.
 ======
 
-If you're having troubles making the mod work, or can't manage how to customize things as you want, tell your problem on the `Github Issue Tracker <http://github.com/Kobata/inventory-tweaks/issues>`_, or the `Minecraft Forum topic <http://www.minecraftforum.net/topic/1720872-/>`_, other users and I will be glad to help!
+If you're having troubles making the mod work, or can't manage how to customize things as you want, tell your problem on the `Github Issue Tracker <http://github.com/Inventory-Tweaks/inventory-tweaks/issues>`_, or the `Minecraft Forum topic <http://www.minecraftforum.net/topic/1720872-/>`_, other users and I will be glad to help!
 
 * **I can't sort items from my mods like I want!**
 

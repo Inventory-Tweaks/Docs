@@ -30,7 +30,7 @@ Inventory Tweaks가 무엇인가요?
 -------
 
 * `마인크래프트 포럼에서 도움말을 얻으세요! <whttp://www.minecraftforum.net/topic/1720872-/>`_
-* `GitHub에서 개발을 도와주세요! <https://github.com/Kobata/inventory-tweaks/wiki>`_ (네, 이 모드는 오픈소스입니다!)
+* `GitHub에서 개발을 도와주세요! <https://github.com/Inventory-Tweaks/inventory-tweaks/wiki>`_ (네, 이 모드는 오픈소스입니다!)
 
 
 
@@ -110,7 +110,7 @@ Add them at the end of the targets (example: ``Ar``) to apply their effect.
 사용 가능한 키워드
 ------------------
 
-All item names are supported, and even a whole lot of category keywords, such as ``edibleFood``, ``blocks``, ``items``, ``equipment``... The whole list is stored in the file *config/InvTweaksTree.txt* ; an online version is `available here <https://github.com/Kobata/inventory-tweaks/blob/release/src/minecraft/invtweaks/DefaultTree.dat>`_. Also, don't worry about syntax, for instance ``woodenSword`` works as well as ``WOODSWORD`` or ``Wooden Sword``.
+All item names are supported, and even a whole lot of category keywords, such as ``edibleFood``, ``blocks``, ``items``, ``equipment``... The whole list is stored in the file *config/InvTweaksTree.txt* ; an online version is `available here <https://github.com/Inventory-Tweaks/inventory-tweaks/blob/release/src/minecraft/invtweaks/DefaultTree.dat>`_. Also, don't worry about syntax, for instance ``woodenSword`` works as well as ``WOODSWORD`` or ``Wooden Sword``.
 
 Here are the special keywords you can use:
 
@@ -215,7 +215,7 @@ The format for entries is fairly simple::
 F.A.Q. - 질문과 응답
 ======
 
-이 모드에 문제가 생기거나, 하고싶은 대로 커스터마이즈할 수 없거나 할 때 `Github Issue Tracker <http://github.com/Kobata/inventory-tweaks/issues>`_ 혹은 `Minecraft 포럼 글 <http://www.minecraftforum.net/topic/1720872-/>`_에서 **영어로** 질문을 올려주시면 답변해 드립니다. 그 질문과 답변을 다른 유저가 볼 때에는 도움이 될 수도 있죠!
+이 모드에 문제가 생기거나, 하고싶은 대로 커스터마이즈할 수 없거나 할 때 `Github Issue Tracker <http://github.com/Inventory-Tweaks/inventory-tweaks/issues>`_ 혹은 `Minecraft 포럼 글 <http://www.minecraftforum.net/topic/1720872-/>`_에서 **영어로** 질문을 올려주시면 답변해 드립니다. 그 질문과 답변을 다른 유저가 볼 때에는 도움이 될 수도 있죠!
 
 * **특정 모드의 아이템들이 제가 원하는 대로 정렬이 되지 않아요!**
 
