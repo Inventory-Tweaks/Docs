@@ -116,7 +116,6 @@ Here are the special keywords you can use:
 
 * **Locked slots**: ``LOCKED``. This make items from your selection not move during sorting (e.g. ``D LOCKED``). However, the LOCKED keyword is overriden by rules with finer targets (``D LOCKED`` is overriden by ``D1 torch`` or ``1 swords``).
 * **Frozen slots**: ``FROZEN``. Items in frozen slots never move during sorting or auto-refill (e.g. ``D8 FROZEN``).
-* **Items by IDs**: If an item doesn't have a keyword (such as mod items), but you know its ID, you can still select it thanks to ID rules (e.g. ``D1 489``, or ``D1 489-5`` for a specific damage value).
 
 Multiple configurations
 -----------------------
