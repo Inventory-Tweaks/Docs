@@ -2,6 +2,15 @@
 
 Latest changes
 ==============
+`1.60 (1.8.9/1.8.8/1.8) <http://minecraft.curseforge.com/projects/inventory-tweaks/files/2287489>`_
+ * Network handling for server-assisted mode should be more consistent.
+ * Sorting works in creative mode inventory again.
+ * Move-all-of-type shortcut works more often in situations where the first item in the section was not the clicked item.
+ * Horses/Donkeys equipped with a chest are now sortable.
+ * Default sort of items not in the item tree altered to provide better results in most cases.
+ * Mushroom stew auto-refill works again.
+ * Various other small changes
+
 `1.59 (1.8) <http://build.technicpack.net/job/Inventory-Tweaks/176/artifact/build/libs/InventoryTweaks-1.59-176.jar>`_
  * Auto-refill is more consistent.
  * Compatibility XML file can now disable display of buttons.
