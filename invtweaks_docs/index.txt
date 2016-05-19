@@ -197,6 +197,15 @@ You can also define categories by entering an ore dictionary name. Useful for mo
      <camelOreIngot oreDictName="ingotCamel"/>
    </camelOre>
 
+Items with special extra data
+-------------------------------
+Some items (such as potions), require extra data checks to specify a specific variant::
+
+   <specialPotion>
+     <specialPotionA id="special_potion" data="{Potion:"me:a_special_potion}"/>
+     <specialPotionB id="special_potion" data="{Potion:"me:another_special_potion}"/>
+   </specialPotion>
+
 
 Adding configured compatibility info
 ======================
