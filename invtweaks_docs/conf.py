@@ -21,7 +21,7 @@ import sys, os
 # -- General configuration -----------------------------------------------------
 
 # INVENTORY TWEAKS VERSION
-invtweaks_version = '1.60'
+invtweaks_version = '1.61'
 
 
 # If your documentation needs a minimal Sphinx version, state it here.

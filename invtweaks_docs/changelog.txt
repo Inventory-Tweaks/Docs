@@ -2,6 +2,12 @@
 
 Latest changes
 ==============
+`1.61 (1.10.2/1.9.4) <http://minecraft.curseforge.com/projects/inventory-tweaks/files/2315240>`_
+ * Default file creation works with larger files.
+ * Config backup files are now created in the correct location.
+ * 'Cooked Fish' now has the correct current ID in the tree file (Mojang originally misspelled it, then fixed it later).
+ * The item tree has learned how to compare item data in JSON format, needed for 1.9's potion changes.
+ 
 `1.60 (1.8.9/1.8.8/1.8) <http://minecraft.curseforge.com/projects/inventory-tweaks/files/2287489>`_
  * Network handling for server-assisted mode should be more consistent.
  * Sorting works in creative mode inventory again.

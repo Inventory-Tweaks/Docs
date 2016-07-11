@@ -1,6 +1,11 @@
 .. image:: _static/img/dl.png
   :align: left
 
+`Inventory Tweaks 1.61 <http://minecraft.curseforge.com/projects/inventory-tweaks/files/2315240>`_ (`API <http://minecraft.curseforge.com/projects/inventory-tweaks/files/2315241>`_) for **Minecraft 1.10.2/1.9.4** (requires `Forge <http://files.minecraftforge.net>`_)
+
+.. image:: _static/img/dl.png
+  :align: left
+
 `Inventory Tweaks 1.60 <http://minecraft.curseforge.com/projects/inventory-tweaks/files/2287489>`_ (`API <http://minecraft.curseforge.com/projects/inventory-tweaks/files/2287490>`_) for **Minecraft 1.8.9/1.8.8/1.8** (requires `Forge <http://files.minecraftforge.net>`_)
 
 .. image:: _static/img/dl.png
