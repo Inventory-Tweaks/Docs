@@ -199,12 +199,13 @@ You can also define categories by entering an ore dictionary name. Useful for mo
 
 Items with special extra data
 -------------------------------
-Some items (such as potions), require extra data checks to specify a specific variant::
+Some items (such as potions or named items), require extra data checks to specify a specific variant::
 
    <specialPotion>
-     <specialPotionA id="special_potion" data="{Potion:"me:a_special_potion}"/>
-     <specialPotionB id="special_potion" data="{Potion:"me:another_special_potion}"/>
+     <specialPotionA id="special_potion" data='{Potion:"me:a_special_potion"}'/>
+     <specialPotionB id="special_potion" data='{Potion:"me:another_special_potion"}'/>
    </specialPotion>
+   <specialPickaxe id="diamond_pickaxe" data='{display:{Name:"My Special Pickaxe"}}'/>
 
 
 Adding configured compatibility info
