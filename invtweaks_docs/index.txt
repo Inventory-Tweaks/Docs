@@ -228,10 +228,8 @@ If you're having troubles making the mod work, or can't manage how to customize 
 
 * **I can't sort items from my mods like I want!**
 
-Currently, you have two solutions, the first being to make rules according to the item ID (e.g. ``D1 somemod:someItem`` or ``D1 somemod:someItem-5`` for a specific damage value).
+Edit the *InvTweaksTree.txt* file from the config folder, to manually add the items you want to sort. Each item is defined by its ID, which can be found on item tooltips after pressing the key combination F3+H ingame.
 
-Second solution, edit the *InvTweaksTree.txt* file from the config folder, to manually add the items you want to sort. Each item is defined by its ID, and the easiest way to find out which item is which ID is to use something like the `Not Enough Items <http://www.minecraftforum.net/topic/909223-/>`_ mod.
-  
 * **The last update broke my InvTweaksTree.txt file!**
 
 Don't worry, you'll find a backup in your config folder. It's just that InvTweaks replaced the tree with a new version, up-to-date with the latest Minecraft items.
