@@ -2,6 +2,12 @@
 
 Latest changes
 ==============
+`1.62 (1.11/1.11.2) <https://minecraft.curseforge.com/projects/inventory-tweaks/files/2431301>`_
+ * Fixed the meaning of 'enableConfigLoadedMesssage'
+ * Fixes issues arising from tree files with large numbers of entries.
+ * Various auto-refill fixes.
+ * Made the mod slightly better at not slowing down Minecraft loading as much.
+
 `1.61 (1.10.2/1.9.4) <http://minecraft.curseforge.com/projects/inventory-tweaks/files/2315240>`_
  * Default file creation works with larger files.
  * Config backup files are now created in the correct location.
